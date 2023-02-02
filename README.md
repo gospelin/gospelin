@@ -1,7 +1,7 @@
 👋 My name is Gospel Isaac
 =============================
 
-Software Engineer
+### Software Engineer
 -----------------
 
 I'm a driven and passionate software engineer, always seeking to expand my skill set and stay ahead of the latest industry trends. With a strong focus on delivering high-quality and reliable solutions, I bring creativity and attention to detail to every project I work on. Whether collaborating with a team or taking the lead on independent projects, I consistently strive to exceed expectations and make a meaningful impact.
@@ -48,3 +48,15 @@ src="https://img.shields.io/github/followers/gospelin?logo=github&style=for-the-
 <a href="http://www.github.com/gospelin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gospelin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/gospelin"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gospelin&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gospelin&label=Profile%20views&color=0e75b6&style=flat" alt="gospelin" /> </p>
+
+
+
+
+
+
+
