@@ -8,7 +8,7 @@ I'm a driven and passionate software engineer, always seeking to expand my skill
 
 * 🇳🇬  I'm based in Abia, Nigeria
 * ✉️   Contact  [gospelin.gi@gmail.com](mailto:gospelin.gi@gmail.com)
-* 🎓  I'm currently an ALX Student
+* 🎓  I'm currently an ALX Intern
 * 🤝  I'm open to collaborating on **Open-source software development, Web application development, DevOps and automation, Security and network engineering, UX/UI design and implementation, Technical writing and documentation, Mentorship and technical training**.
 
 <a href="https://www.github.com/gospelin" target="_blank" rel="noreferrer"><img
