@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/gospelin?logo=github&style=for-the-
 
 ![gospelin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gospelin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![GIGO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gospelin)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GIGO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gospelin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
