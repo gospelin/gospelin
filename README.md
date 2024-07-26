@@ -1,4 +1,4 @@
-👋 My name is Gospel Isaac
+👋 My name is Gospel O. Isaac 
 =============================
 
 ### Software Engineer
