@@ -53,8 +53,6 @@ src="https://img.shields.io/github/followers/gospelin?logo=github&style=for-the-
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gospelin&label=Profile%20views&color=0e75b6&style=flat" alt="gospelin" /> </p>
-
 
 
 
